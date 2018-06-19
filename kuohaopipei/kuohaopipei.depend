@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529408482 source:f:\git1\kuohaopipei\kuohaopipei\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
